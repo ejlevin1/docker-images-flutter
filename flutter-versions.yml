@@ -1,3 +1,3 @@
 # Flutter version built and published by .github/workflows/build.yml
 # Kept up to date automatically by scripts/update_flutter_versions.sh
-latest: 3.44.8
+latest: 3.47.5
